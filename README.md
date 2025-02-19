@@ -1,4 +1,4 @@
-Este projeto possui  um conjunto de algoritmos de escalonamento de CPU e escrevee um programa que calcula uma série de estatísticas baseado nestes algoritmos.
+Este projeto possui  um conjunto de algoritmos de escalonamento de CPU e escreve um programa que calcula uma série de estatísticas baseado nestes algoritmos.
 
 Os algoritmos de escalonamento a serem implementados são os seguintes:
 
