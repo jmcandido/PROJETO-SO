@@ -17,9 +17,6 @@ Tempo de espera médio
 Exemplo de entrada:
 
 0 20
-
 0 10
-
 4 6
-
 4 8
